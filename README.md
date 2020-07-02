@@ -1,6 +1,6 @@
 # Simple-ML-project-on-the-titanic-dataset
 
-This project is my shot at the titanic survival competition. This notebook features an end to end machine learning project from data analysis to parameters tunning. 
+This project is my shot at the titanic survival competition. This notebook features an end to end machine learning project from data analysis to parameters tuning. 
 
 1. Dataset inspection: Getting to know the data 
 2. Cleaning the data
